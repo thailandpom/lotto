@@ -20,7 +20,6 @@
                         <td><input type="text" id="exampleForm2" class="form-control" size="10"> </td>
                         <td> <a href="" class="btn-sm btn-danger btn">+</a><a href=""
                                 class="btn-sm btn-danger btn">-</a><a href="" class="btn-sm btn-danger btn">L</a>
-
                         </td>
                     </tr>
                 </table>
@@ -67,12 +66,11 @@
                 </table>
             </div>
         </div>
-  </div>
+    </div>
 </div>
 </div>
 </div>
 </div>
-
 </div>
 </div>
 
